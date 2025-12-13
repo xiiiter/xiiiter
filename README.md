@@ -2,15 +2,8 @@
 
 ````md
 ```js
-console.log(`Hi. I'm xiiter.`);
+console.log(`Hi. I'm Carlo Eduardo.`);
 ````
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=160&section=header&text=xiiter&fontSize=40&fontColor=E6E6FA&animation=fadeIn"
-    alt="header"
-  />
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
