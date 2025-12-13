@@ -18,8 +18,7 @@
 
 📍 **Location:** Londrina, Paraná  
 🏢 **Company:** I work with Java, Python, JavaScript, and TypeScript, as well as frontend and mobile frameworks like React, React Native, Swift, and Kotlin.  
-💼 **Role:** Full-Stack Developer  
-🌐 **Portfolio:** [[Your website]]([Your website])  
+💼 **Role:** Full-Stack Developer    
 📧 **Email:** eduardo.abucci@gmail.com
 
 ---
