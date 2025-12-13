@@ -10,10 +10,10 @@
 
 ## 🎨 About Me
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" align="right"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNml3MG8za290ZDV0aDZsMnB0bmY4c2c1dWxzeDFlampzcGRiaW0waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" width="200" align="right"/>
 </div>
 
-> I'm a Software Engineering student and full-stack developer with experience across multiple languages and technologies.I also have experience with databases such as MySQL and enjoy building clean, scalable, and well-structured solutions while continuously improving my software architecture skills.
+> I'm a Software Engineering student and full-stack developer with experience across multiple languages and technologies.
 
 
 📍 **Location:** Londrina, Paraná  
