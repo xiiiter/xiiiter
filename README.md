@@ -1,16 +1,16 @@
 
 
 ````md
-```js
 console.log(`Hi. I'm Carlo Eduardo.`);
 ````
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,reactnative,nodejs,mysql,git,github,docker,kotlin,swift&theme=dark" 
-      alt="skills" 
+      src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,python,java,cs,django,fastapi,mysql,postgresql,oracle,sqlite,supabase,mongodb,aws,gcp,docker,ubuntu,linux,reactnative,flutter,swift,kotlin,figma,photoshop,numpy,pandas,jupyter,git,github,gitlab,vscode&theme=dark&perline=6" 
+      alt="Skills"
     />
+
   </a>
 </p>
 
@@ -30,9 +30,9 @@ console.log(`Hi. I'm Carlo Eduardo.`);
 <p align="center">
   <sub>
     Software Engineering student • Full-stack developer <br/>
-    Clean code • Scalability • Software design
+    Clean code • Scalability • Software designer
   </sub>
 </p>
-```
+
 
 
