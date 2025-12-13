@@ -1,7 +1,7 @@
 # ✨ Carlos Eduardo  | Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Creative+UI%2FUX+Designer;User+Experience+Architect;Design+System+Creator;Product+Design+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;User+Experience+Architect;System+Creator;Product+Developer+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
