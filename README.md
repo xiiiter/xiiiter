@@ -2,7 +2,7 @@
 **I'm xiiter** — Software Engineering student and full-stack developer.  
 I have 5+ years of hands-on experience through personal and collaborative projects, working across backend, frontend, and mobile development.
 
-Check out my GitHub projects below 👇
+
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,java,python,nodejs,react,reactnative,nextjs,mysql,postgresql,mongodb,docker,aws,gcp,git,github,figma,swift,kotlin&theme=dark)](https://skillicons.dev)
 
