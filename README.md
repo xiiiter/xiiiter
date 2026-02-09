@@ -15,25 +15,11 @@ I have 5+ years of hands-on experience through personal and collaborative projec
 
 ---
 
-<details>
-  <summary><b>GitHub Stats ⚡</b></summary>
-  <br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xiiiter&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xiiiter&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiiiter&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <p align="center">
-    <img 
-      height="160"
-      src="https://github-readme-stats.vercel.app/api?username=xiiter&show_icons=true&theme=tokyonight&hide_border=true"
-    />
-    <img 
-      height="160"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiiter&layout=compact&theme=tokyonight&hide_border=true"
-    />
-  </p>
 
-  <p align="center">
-    <img
-      height="160"
-      src="https://github-readme-streak-stats.herokuapp.com?user=xiiter&theme=tokyonight&hide_border=true"
-    />
-  </p>
-</details>
+---
+[![](https://visitcount.itsvg.in/api?id=xiiiter&icon=8&color=12)](https://visitcount.itsvg.in)
