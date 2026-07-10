@@ -54,4 +54,4 @@ Descobre empresas por nicho/cidade e analisa presença digital (site, SSL, SEO, 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosabucci&theme=blue-green&hide_border=false&layout=compact)
+![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,java,python,nodejs,react,reactnative,nextjs,mysql,postgresql,mongodb,docker,aws,gcp,git,github,figma,swift,kotlin&theme=dark)](https://skillicons.dev)
